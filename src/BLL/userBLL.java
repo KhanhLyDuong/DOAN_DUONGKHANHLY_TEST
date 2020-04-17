@@ -32,6 +32,5 @@ public class userBLL {
 		this.age = age;
 	}
 	
-	Duong khanh ly
 
 }
